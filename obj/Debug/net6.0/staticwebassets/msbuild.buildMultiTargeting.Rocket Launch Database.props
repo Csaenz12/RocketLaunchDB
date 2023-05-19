@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rocket Launch Database.props" />
+</Project>
